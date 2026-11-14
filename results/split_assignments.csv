@@ -1,0 +1,702 @@
+source_row,Make,Model,group,split
+2,Acura,ADX AWD,Acura::ADX AWD,train
+3,Acura,Integra A-SPEC,Acura::Integra A-SPEC,train
+4,Acura,Integra A-SPEC,Acura::Integra A-SPEC,train
+5,Acura,Integra Type S,Acura::Integra Type S,test
+6,Acura,MDX SH-AWD,Acura::MDX SH-AWD,train
+7,Acura,MDX SH-AWD Type S,Acura::MDX SH-AWD Type S,train
+8,Acura,RDX SH-AWD,Acura::RDX SH-AWD,train
+9,Acura,RDX SH-AWD A-SPEC,Acura::RDX SH-AWD A-SPEC,test
+10,Acura,TLX SH-AWD A-SPEC,Acura::TLX SH-AWD A-SPEC,train
+11,Acura,TLX Type S (Performance Tire),Acura::TLX Type S (Performance Tire),train
+12,Alfa Romeo,Giulia,Alfa Romeo::Giulia,train
+13,Alfa Romeo,Giulia AWD,Alfa Romeo::Giulia AWD,test
+14,Alfa Romeo,Stelvio AWD,Alfa Romeo::Stelvio AWD,test
+15,Alfa Romeo,Tonale AWD,Alfa Romeo::Tonale AWD,train
+16,Aston Martin,DB12,Aston Martin::DB12,train
+17,Aston Martin,DBX707,Aston Martin::DBX707,train
+18,Aston Martin,Vanquish,Aston Martin::Vanquish,train
+19,Aston Martin,Vantage,Aston Martin::Vantage,train
+20,Audi,A3 40 TFSI quattro,Audi::A3 40 TFSI quattro,train
+21,Audi,A4 45 TFSI quattro,Audi::A4 45 TFSI quattro,train
+22,Audi,A4 allroad 45 TFSI quattro,Audi::A4 allroad 45 TFSI quattro,train
+23,Audi,A5 Coupé 45 TFSI quattro,Audi::A5 Coupé 45 TFSI quattro,train
+24,Audi,A5 Sedan quattro,Audi::A5 Sedan quattro,train
+25,Audi,A5 Sportback 45 TFSI quattro,Audi::A5 Sportback 45 TFSI quattro,train
+26,Audi,A6 45 TFSI quattro,Audi::A6 45 TFSI quattro,train
+27,Audi,A6 55 TFSI quattro,Audi::A6 55 TFSI quattro,test
+28,Audi,A6 allroad 55 TFSI quattro,Audi::A6 allroad 55 TFSI quattro,train
+29,Audi,A7 Sportback,Audi::A7 Sportback,train
+30,Audi,A8 quattro,Audi::A8 quattro,train
+31,Audi,Q3 40 TFSI quattro,Audi::Q3 40 TFSI quattro,train
+32,Audi,Q3 45 TFSI quattro,Audi::Q3 45 TFSI quattro,train
+33,Audi,Q5 40 TFSI quattro,Audi::Q5 40 TFSI quattro,train
+34,Audi,Q5 45 TFSI quattro,Audi::Q5 45 TFSI quattro,train
+35,Audi,Q5 Sportback 45 TFSI quattro,Audi::Q5 Sportback 45 TFSI quattro,train
+36,Audi,All-new Q5 TFSI quattro,Audi::All-new Q5 TFSI quattro,test
+37,Audi,All-new Q5 Sportback TFSI quattro,Audi::All-new Q5 Sportback TFSI quattro,train
+38,Audi,Q7 45 TFSI quattro,Audi::Q7 45 TFSI quattro,train
+39,Audi,Q7 55 TFSI quattro,Audi::Q7 55 TFSI quattro,train
+40,Audi,RS 3,Audi::RS 3,test
+41,Audi,RS 5 Coupé,Audi::RS 5 Coupé,train
+42,Audi,RS 5 Sportback,Audi::RS 5 Sportback,train
+43,Audi,RS 6 Avant quattro performance,Audi::RS 6 Avant quattro performance,train
+44,Audi,RS 6 Avant GT,Audi::RS 6 Avant GT,train
+45,Audi,RS 7 Sportback quattro performance,Audi::RS 7 Sportback quattro performance,train
+46,Audi,RS Q8 performance,Audi::RS Q8 performance,train
+47,Audi,S3 quattro,Audi::S3 quattro,train
+48,Audi,S4 quattro,Audi::S4 quattro,train
+49,Audi,S5 Coupé quattro,Audi::S5 Coupé quattro,train
+50,Audi,S5 Sedan quattro,Audi::S5 Sedan quattro,train
+51,Audi,S5 Sportback quattro,Audi::S5 Sportback quattro,train
+52,Audi,S6 quattro,Audi::S6 quattro,train
+53,Audi,S7 quattro,Audi::S7 quattro,train
+54,Audi,S8 quattro,Audi::S8 quattro,train
+55,Audi,SQ5 quattro,Audi::SQ5 quattro,test
+56,Audi,SQ5 Sportback quattro,Audi::SQ5 Sportback quattro,train
+57,Audi,All-new SQ5 quattro,Audi::All-new SQ5 quattro,train
+58,Audi,All-new SQ5 Sportback quattro,Audi::All-new SQ5 Sportback quattro,test
+59,Audi,SQ7 quattro,Audi::SQ7 quattro,train
+60,Audi,SQ8 quattro,Audi::SQ8 quattro,train
+61,Bentley,Bentayga,Bentley::Bentayga,train
+62,Bentley,Bentayga EWB,Bentley::Bentayga EWB,train
+63,BMW,228 xDrive Gran Coupe,BMW::228 xDrive Gran Coupe,train
+64,BMW,230i xDrive Coupe,BMW::230i xDrive Coupe,train
+65,BMW,330i xDrive Sedan,BMW::330i xDrive Sedan,test
+66,BMW,430i xDrive Cabriolet,BMW::430i xDrive Cabriolet,train
+67,BMW,430i xDrive Coupe,BMW::430i xDrive Coupe,train
+68,BMW,430i xDrive Gran Coupe,BMW::430i xDrive Gran Coupe,test
+69,BMW,530i xDrive Sedan,BMW::530i xDrive Sedan,train
+70,BMW,760i xDrive Sedan,BMW::760i xDrive Sedan,train
+71,BMW,ALPINA XB7,BMW::ALPINA XB7,train
+72,BMW,M2 Coupe,BMW::M2 Coupe,train
+73,BMW,M2 Coupe,BMW::M2 Coupe,train
+74,BMW,M240i xDrive Coupe,BMW::M240i xDrive Coupe,train
+75,BMW,M3 Sedan,BMW::M3 Sedan,train
+76,BMW,M3 Competition Sedan,BMW::M3 Competition Sedan,test
+77,BMW,M3 Competition M xDrive Sedan,BMW::M3 Competition M xDrive Sedan,train
+78,BMW,M340i xDrive Sedan,BMW::M340i xDrive Sedan,test
+79,BMW,M4 Coupe,BMW::M4 Coupe,test
+80,BMW,M4 Competition Coupe,BMW::M4 Competition Coupe,train
+81,BMW,M4 Competition M xDrive Cabriolet,BMW::M4 Competition M xDrive Cabriolet,train
+82,BMW,M4 Competition M xDrive Coupe,BMW::M4 Competition M xDrive Coupe,test
+83,BMW,M4 CS Coupe,BMW::M4 CS Coupe,test
+84,BMW,M440i xDrive Cabriolet,BMW::M440i xDrive Cabriolet,test
+85,BMW,M440i xDrive Coupe,BMW::M440i xDrive Coupe,test
+86,BMW,M440i xDrive Gran Coupe,BMW::M440i xDrive Gran Coupe,train
+87,BMW,M8 Competition Cabriolet,BMW::M8 Competition Cabriolet,test
+88,BMW,M8 Competition Coupe,BMW::M8 Competition Coupe,test
+89,BMW,M8 Competition Gran Coupe,BMW::M8 Competition Gran Coupe,test
+90,BMW,M850i xDrive Cabriolet,BMW::M850i xDrive Cabriolet,train
+91,BMW,M850i xDrive Coupe,BMW::M850i xDrive Coupe,train
+92,BMW,M850i xDrive Gran Coupe,BMW::M850i xDrive Gran Coupe,test
+93,BMW,X1 xDrive28i,BMW::X1 xDrive28i,train
+94,BMW,X1 M35i,BMW::X1 M35i,train
+95,BMW,X2 xDrive28i,BMW::X2 xDrive28i,test
+96,BMW,X2 M35i,BMW::X2 M35i,train
+97,BMW,X3 xDrive30i,BMW::X3 xDrive30i,train
+98,BMW,X3 M50i xDrive,BMW::X3 M50i xDrive,train
+99,BMW,X4 xDrive30i,BMW::X4 xDrive30i,train
+100,BMW,X4 M,BMW::X4 M,train
+101,BMW,X4 M Competition,BMW::X4 M Competition,train
+102,BMW,X4 M40i xDrive,BMW::X4 M40i xDrive,train
+103,BMW,X5 xDrive40i,BMW::X5 xDrive40i,train
+104,BMW,X5 M Competition,BMW::X5 M Competition,train
+105,BMW,X5 M60i xDrive,BMW::X5 M60i xDrive,train
+106,BMW,X6 xDrive40i,BMW::X6 xDrive40i,train
+107,BMW,X6 M Competition,BMW::X6 M Competition,train
+108,BMW,X6 M60i xDrive,BMW::X6 M60i xDrive,test
+109,BMW,X7 xDrive40i,BMW::X7 xDrive40i,test
+110,BMW,X7 M60i xDrive,BMW::X7 M60i xDrive,train
+111,BMW,Z4 sDrive30i,BMW::Z4 sDrive30i,train
+112,BMW,Z4 M40i,BMW::Z4 M40i,train
+113,BMW,Z4 M40i,BMW::Z4 M40i,train
+114,Bugatti,Mistral,Bugatti::Mistral,test
+115,Buick,Enclave AWD,Buick::Enclave AWD,test
+116,Buick,Encore GX,Buick::Encore GX,train
+117,Buick,Encore GX AWD,Buick::Encore GX AWD,train
+118,Buick,Envision AWD,Buick::Envision AWD,train
+119,Buick,Envista,Buick::Envista,train
+120,Cadillac,CT4,Cadillac::CT4,train
+121,Cadillac,CT4,Cadillac::CT4,train
+122,Cadillac,CT4 AWD,Cadillac::CT4 AWD,train
+123,Cadillac,CT4 AWD,Cadillac::CT4 AWD,train
+124,Cadillac,CT4-V,Cadillac::CT4-V,train
+125,Cadillac,CT4-V,Cadillac::CT4-V,train
+126,Cadillac,CT4-V,Cadillac::CT4-V,train
+127,Cadillac,CT4-V AWD,Cadillac::CT4-V AWD,test
+128,Cadillac,CT5,Cadillac::CT5,train
+129,Cadillac,CT5,Cadillac::CT5,train
+130,Cadillac,CT5 AWD,Cadillac::CT5 AWD,train
+131,Cadillac,CT5 AWD,Cadillac::CT5 AWD,train
+132,Cadillac,CT5-V,Cadillac::CT5-V,train
+133,Cadillac,CT5-V,Cadillac::CT5-V,train
+134,Cadillac,CT5-V,Cadillac::CT5-V,train
+135,Cadillac,CT5-V AWD,Cadillac::CT5-V AWD,train
+136,Cadillac,Escalade 4WD,Cadillac::Escalade 4WD,train
+137,Cadillac,Escalade-V AWD,Cadillac::Escalade-V AWD,train
+138,Cadillac,XT4 AWD,Cadillac::XT4 AWD,train
+139,Cadillac,XT5,Cadillac::XT5,train
+140,Cadillac,XT5 AWD,Cadillac::XT5 AWD,train
+141,Cadillac,XT5 AWD,Cadillac::XT5 AWD,train
+142,Cadillac,XT6 AWD,Cadillac::XT6 AWD,train
+143,Cadillac,XT6 AWD,Cadillac::XT6 AWD,train
+144,Chevrolet,Blazer AWD,Chevrolet::Blazer AWD,train
+145,Chevrolet,Blazer AWD,Chevrolet::Blazer AWD,train
+146,Chevrolet,Colorado,Chevrolet::Colorado,train
+147,Chevrolet,Colorado 4WD,Chevrolet::Colorado 4WD,train
+148,Chevrolet,Colorado 4WD Mud Terrain Tire,Chevrolet::Colorado 4WD Mud Terrain Tire,test
+149,Chevrolet,Colorado ZR2 4WD,Chevrolet::Colorado ZR2 4WD,train
+150,Chevrolet,Colorado ZR2 Bison 4WD,Chevrolet::Colorado ZR2 Bison 4WD,train
+151,Chevrolet,Corvette,Chevrolet::Corvette,test
+152,Chevrolet,Corvette E-Ray,Chevrolet::Corvette E-Ray,train
+153,Chevrolet,Corvette Z06,Chevrolet::Corvette Z06,test
+154,Chevrolet,Corvette Z06 Carbon Aero,Chevrolet::Corvette Z06 Carbon Aero,train
+155,Chevrolet,Corvette ZR1,Chevrolet::Corvette ZR1,train
+156,Chevrolet,Equinox,Chevrolet::Equinox,test
+157,Chevrolet,Equinox AWD,Chevrolet::Equinox AWD,train
+158,Chevrolet,Malibu,Chevrolet::Malibu,train
+159,Chevrolet,Silverado,Chevrolet::Silverado,train
+160,Chevrolet,Silverado,Chevrolet::Silverado,train
+161,Chevrolet,Silverado,Chevrolet::Silverado,train
+162,Chevrolet,Silverado 4WD,Chevrolet::Silverado 4WD,train
+163,Chevrolet,Silverado 4WD Mud Terrain Tire,Chevrolet::Silverado 4WD Mud Terrain Tire,train
+164,Chevrolet,Silverado 4WD,Chevrolet::Silverado 4WD,train
+165,Chevrolet,Silverado 4WD (With Sport Mode),Chevrolet::Silverado 4WD (With Sport Mode),train
+166,Chevrolet,Silverado 4WD Mud Terrain Tire,Chevrolet::Silverado 4WD Mud Terrain Tire,train
+167,Chevrolet,Silverado 4WD,Chevrolet::Silverado 4WD,train
+168,Chevrolet,Silverado 4WD FFV,Chevrolet::Silverado 4WD FFV,train
+169,Chevrolet,Silverado 4WD FFV,Chevrolet::Silverado 4WD FFV,train
+170,Chevrolet,Silverado 4WD Mud Terrain Tire,Chevrolet::Silverado 4WD Mud Terrain Tire,train
+171,Chevrolet,Silverado 4WD,Chevrolet::Silverado 4WD,train
+172,Chevrolet,Silverado 4WD Mud Terrain Tire,Chevrolet::Silverado 4WD Mud Terrain Tire,train
+173,Chevrolet,Silverado 4WD ZR2,Chevrolet::Silverado 4WD ZR2,test
+174,Chevrolet,Silverado 4WD ZR2,Chevrolet::Silverado 4WD ZR2,test
+175,Chevrolet,Suburban,Chevrolet::Suburban,train
+176,Chevrolet,Suburban 4WD,Chevrolet::Suburban 4WD,train
+177,Chevrolet,Suburban 4WD,Chevrolet::Suburban 4WD,train
+178,Chevrolet,Suburban 4WD,Chevrolet::Suburban 4WD,train
+179,Chevrolet,Tahoe,Chevrolet::Tahoe,train
+180,Chevrolet,Tahoe 4WD,Chevrolet::Tahoe 4WD,train
+181,Chevrolet,Tahoe 4WD,Chevrolet::Tahoe 4WD,train
+182,Chevrolet,Tahoe 4WD,Chevrolet::Tahoe 4WD,train
+183,Chevrolet,Trailblazer,Chevrolet::Trailblazer,train
+184,Chevrolet,Trailblazer,Chevrolet::Trailblazer,train
+185,Chevrolet,Trailblazer,Chevrolet::Trailblazer,train
+186,Chevrolet,Trailblazer AWD,Chevrolet::Trailblazer AWD,train
+187,Chevrolet,Traverse AWD,Chevrolet::Traverse AWD,test
+188,Chevrolet,Trax,Chevrolet::Trax,train
+189,Chrysler,Grand Caravan,Chrysler::Grand Caravan,train
+190,Chrysler,Pacifica,Chrysler::Pacifica,train
+191,Chrysler,Pacifica AWD,Chrysler::Pacifica AWD,train
+192,Dodge,Durango AWD,Dodge::Durango AWD,train
+193,Dodge,Durango AWD,Dodge::Durango AWD,train
+194,Dodge,Durango AWD SRT Hellcat,Dodge::Durango AWD SRT Hellcat,train
+195,Dodge,Hornet AWD,Dodge::Hornet AWD,train
+196,Ferrari,12Cilindri,Ferrari::12Cilindri,test
+197,Ferrari,12Cilindri Spider,Ferrari::12Cilindri Spider,train
+198,Ferrari,Daytona SP3,Ferrari::Daytona SP3,test
+199,Ferrari,Purosangue,Ferrari::Purosangue,train
+200,Ferrari,Roma Spider,Ferrari::Roma Spider,train
+201,Ford,Bronco 4WD,Ford::Bronco 4WD,train
+202,Ford,Bronco 4WD,Ford::Bronco 4WD,train
+203,Ford,Bronco 4WD,Ford::Bronco 4WD,train
+204,Ford,Bronco 4WD (With Sport Mode),Ford::Bronco 4WD (With Sport Mode),train
+205,Ford,Bronco Badlands 4WD,Ford::Bronco Badlands 4WD,train
+206,Ford,Bronco Badlands 4WD,Ford::Bronco Badlands 4WD,train
+207,Ford,Bronco Outer Banks 4WD,Ford::Bronco Outer Banks 4WD,train
+208,Ford,Bronco Raptor 4WD,Ford::Bronco Raptor 4WD,train
+209,Ford,Bronco Sasquatch 4WD,Ford::Bronco Sasquatch 4WD,train
+210,Ford,Bronco Sasquatch 4WD,Ford::Bronco Sasquatch 4WD,train
+211,Ford,Bronco Sport 4WD,Ford::Bronco Sport 4WD,train
+212,Ford,Bronco Sport 4WD,Ford::Bronco Sport 4WD,train
+213,Ford,Bronco Sport Sasquatch,Ford::Bronco Sport Sasquatch,train
+214,Ford,Escape,Ford::Escape,test
+215,Ford,Escape AWD,Ford::Escape AWD,train
+216,Ford,Escape AWD,Ford::Escape AWD,train
+217,Ford,Escape Hybrid,Ford::Escape Hybrid,train
+218,Ford,Escape Hybrid AWD,Ford::Escape Hybrid AWD,train
+219,Ford,Expedition 4WD,Ford::Expedition 4WD,train
+220,Ford,Explorer AWD,Ford::Explorer AWD,test
+221,Ford,Explorer AWD,Ford::Explorer AWD,test
+222,Ford,Explorer AWD,Ford::Explorer AWD,test
+223,Ford,F-150,Ford::F-150,test
+224,Ford,F-150,Ford::F-150,test
+225,Ford,F-150,Ford::F-150,test
+226,Ford,F-150 4X4,Ford::F-150 4X4,train
+227,Ford,F-150 4X4,Ford::F-150 4X4,train
+228,Ford,F-150 4X4,Ford::F-150 4X4,train
+229,Ford,F-150 Hybrid 4X4,Ford::F-150 Hybrid 4X4,test
+230,Ford,F-150 Tremor 4X4,Ford::F-150 Tremor 4X4,train
+231,Ford,F-150 Tremor 4X4,Ford::F-150 Tremor 4X4,train
+232,Ford,F-150 Raptor 4X4,Ford::F-150 Raptor 4X4,train
+233,Ford,F-150 Raptor R 4X4,Ford::F-150 Raptor R 4X4,train
+234,Ford,Maverick AWD,Ford::Maverick AWD,train
+235,Ford,Maverick Lobo,Ford::Maverick Lobo,train
+236,Ford,Maverick Tremor AWD,Ford::Maverick Tremor AWD,test
+237,Ford,Maverick Hybrid,Ford::Maverick Hybrid,train
+238,Ford,Maverick Hybrid AWD,Ford::Maverick Hybrid AWD,train
+239,Ford,Mustang,Ford::Mustang,train
+240,Ford,Mustang,Ford::Mustang,train
+241,Ford,Mustang,Ford::Mustang,train
+242,Ford,Mustang Dark Horse,Ford::Mustang Dark Horse,train
+243,Ford,Mustang Dark Horse,Ford::Mustang Dark Horse,train
+244,Ford,Mustang GTD,Ford::Mustang GTD,test
+245,Ford,Ranger 4WD,Ford::Ranger 4WD,train
+246,Ford,Ranger 4WD,Ford::Ranger 4WD,train
+247,Ford,Ranger Raptor 4WD,Ford::Ranger Raptor 4WD,train
+248,Genesis,G70 AWD,Genesis::G70 AWD,train
+249,Genesis,G70 AWD,Genesis::G70 AWD,train
+250,Genesis,G80 AWD,Genesis::G80 AWD,train
+251,Genesis,G80 AWD,Genesis::G80 AWD,train
+252,Genesis,G90,Genesis::G90,train
+253,Genesis,GV70 AWD,Genesis::GV70 AWD,test
+254,Genesis,GV70 AWD,Genesis::GV70 AWD,test
+255,Genesis,GV80,Genesis::GV80,train
+256,Genesis,GV80 AWD,Genesis::GV80 AWD,train
+257,Genesis,GV80 AWD,Genesis::GV80 AWD,train
+258,GMC,Acadia AWD,GMC::Acadia AWD,train
+259,GMC,Canyon,GMC::Canyon,test
+260,GMC,Canyon 4WD,GMC::Canyon 4WD,train
+261,GMC,Canyon AT4X 4WD,GMC::Canyon AT4X 4WD,train
+262,GMC,Canyon AT4X AEV 4WD,GMC::Canyon AT4X AEV 4WD,train
+263,GMC,Sierra,GMC::Sierra,train
+264,GMC,Sierra,GMC::Sierra,train
+265,GMC,Sierra,GMC::Sierra,train
+266,GMC,Sierra 4WD,GMC::Sierra 4WD,train
+267,GMC,Sierra 4WD (With Sport Mode),GMC::Sierra 4WD (With Sport Mode),train
+268,GMC,Sierra 4WD Mud Terrain Tire,GMC::Sierra 4WD Mud Terrain Tire,test
+269,GMC,Sierra 4WD,GMC::Sierra 4WD,train
+270,GMC,Sierra 4WD Mud Terrain Tire,GMC::Sierra 4WD Mud Terrain Tire,test
+271,GMC,Sierra 4WD,GMC::Sierra 4WD,train
+272,GMC,Sierra 4WD FFV,GMC::Sierra 4WD FFV,train
+273,GMC,Sierra 4WD FFV,GMC::Sierra 4WD FFV,train
+274,GMC,Sierra 4WD Mud Terrain Tire,GMC::Sierra 4WD Mud Terrain Tire,test
+275,GMC,Sierra 4WD,GMC::Sierra 4WD,train
+276,GMC,Sierra 4WD Mud Terrain Tire,GMC::Sierra 4WD Mud Terrain Tire,test
+277,GMC,Sierra 4WD AT4X,GMC::Sierra 4WD AT4X,train
+278,GMC,Sierra 4WD AT4X,GMC::Sierra 4WD AT4X,train
+279,GMC,Terrain,GMC::Terrain,test
+280,GMC,Terrain AWD,GMC::Terrain AWD,test
+281,GMC,Yukon,GMC::Yukon,train
+282,GMC,Yukon 4WD,GMC::Yukon 4WD,test
+283,GMC,Yukon 4WD,GMC::Yukon 4WD,test
+284,GMC,Yukon 4WD,GMC::Yukon 4WD,test
+285,GMC,Yukon XL,GMC::Yukon XL,train
+286,GMC,Yukon XL 4WD,GMC::Yukon XL 4WD,train
+287,GMC,Yukon XL 4WD,GMC::Yukon XL 4WD,train
+288,GMC,Yukon XL 4WD,GMC::Yukon XL 4WD,train
+289,Honda,Accord,Honda::Accord,train
+290,Honda,Accord Hybrid Sport/Touring,Honda::Accord Hybrid Sport/Touring,train
+291,Honda,Civic Hatchback,Honda::Civic Hatchback,train
+292,Honda,Civic Hatchback Hybrid,Honda::Civic Hatchback Hybrid,train
+293,Honda,Civic Sedan,Honda::Civic Sedan,test
+294,Honda,Civic Sedan,Honda::Civic Sedan,test
+295,Honda,Civic Sedan Hybrid,Honda::Civic Sedan Hybrid,train
+296,Honda,Civic Sedan Si,Honda::Civic Sedan Si,train
+297,Honda,Civic Type R,Honda::Civic Type R,train
+298,Honda,CR-V,Honda::CR-V,train
+299,Honda,CR-V AWD,Honda::CR-V AWD,train
+300,Honda,CR-V Hybrid AWD,Honda::CR-V Hybrid AWD,train
+301,Honda,HR-V,Honda::HR-V,train
+302,Honda,HR-V AWD,Honda::HR-V AWD,train
+303,Honda,Odyssey,Honda::Odyssey,test
+304,Honda,Passport AWD,Honda::Passport AWD,test
+305,Honda,Pilot AWD,Honda::Pilot AWD,train
+306,Honda,Pilot AWD Touring/Elite/Black,Honda::Pilot AWD Touring/Elite/Black,train
+307,Honda,Pilot AWD TrailSport,Honda::Pilot AWD TrailSport,test
+308,Honda,Ridgeline AWD,Honda::Ridgeline AWD,train
+309,Honda,Ridgeline AWD TrailSport,Honda::Ridgeline AWD TrailSport,train
+310,Hyundai,Elantra,Hyundai::Elantra,train
+311,Hyundai,Elantra,Hyundai::Elantra,train
+312,Hyundai,Elantra (Stop/Start),Hyundai::Elantra (Stop/Start),train
+313,Hyundai,Elantra Hybrid,Hyundai::Elantra Hybrid,train
+314,Hyundai,Elantra N,Hyundai::Elantra N,train
+315,Hyundai,Elantra N,Hyundai::Elantra N,train
+316,Hyundai,Kona,Hyundai::Kona,test
+317,Hyundai,Kona (Stop/Start),Hyundai::Kona (Stop/Start),train
+318,Hyundai,Kona AWD,Hyundai::Kona AWD,train
+319,Hyundai,Kona AWD,Hyundai::Kona AWD,train
+320,Hyundai,Kona AWD (Stop/Start),Hyundai::Kona AWD (Stop/Start),test
+321,Hyundai,Palisade AWD,Hyundai::Palisade AWD,train
+322,Hyundai,Santa Cruz AWD,Hyundai::Santa Cruz AWD,train
+323,Hyundai,Santa Cruz AWD XRT,Hyundai::Santa Cruz AWD XRT,train
+324,Hyundai,Santa Fe AWD,Hyundai::Santa Fe AWD,train
+325,Hyundai,Santa Fe AWD XRT,Hyundai::Santa Fe AWD XRT,train
+326,Hyundai,Santa Fe Hybrid AWD,Hyundai::Santa Fe Hybrid AWD,train
+327,Hyundai,Sonata,Hyundai::Sonata,train
+328,Hyundai,Sonata,Hyundai::Sonata,train
+329,Hyundai,Sonata AWD,Hyundai::Sonata AWD,train
+330,Hyundai,Sonata Hybrid,Hyundai::Sonata Hybrid,test
+331,Hyundai,Tucson AWD,Hyundai::Tucson AWD,train
+332,Hyundai,Tucson Hybrid,Hyundai::Tucson Hybrid,test
+333,Hyundai,Venue,Hyundai::Venue,train
+334,INEOS,Grenadier Station Wagon,INEOS::Grenadier Station Wagon,train
+335,INEOS,Grenadier Belstaff Edition,INEOS::Grenadier Belstaff Edition,train
+336,INEOS,Grenadier Detour,INEOS::Grenadier Detour,train
+337,INEOS,Grenadier Fieldmaster Edition,INEOS::Grenadier Fieldmaster Edition,train
+338,INEOS,Grenadier Trialmaster Edition,INEOS::Grenadier Trialmaster Edition,test
+339,INEOS,Grenadier Quartermaster,INEOS::Grenadier Quartermaster,train
+340,INEOS,Grenadier Quartermaster Fieldmaster,INEOS::Grenadier Quartermaster Fieldmaster,train
+341,INEOS,Grenadier Quartermaster Trialmaster,INEOS::Grenadier Quartermaster Trialmaster,train
+342,Infiniti,QX50 AWD,Infiniti::QX50 AWD,train
+343,Infiniti,QX55 AWD,Infiniti::QX55 AWD,train
+344,Infiniti,QX60 AWD,Infiniti::QX60 AWD,train
+345,Infiniti,QX80 4WD,Infiniti::QX80 4WD,train
+346,Jaguar,F-Pace P250,Jaguar::F-Pace P250,train
+347,Jaguar,F-Pace P400,Jaguar::F-Pace P400,train
+348,Jaguar,F-Pace P550 SVR,Jaguar::F-Pace P550 SVR,test
+349,Jeep,Compass 4X4,Jeep::Compass 4X4,train
+350,Jeep,Gladiator 4X4,Jeep::Gladiator 4X4,train
+351,Jeep,Grand Cherokee 4X4,Jeep::Grand Cherokee 4X4,train
+352,Jeep,Grand Cherokee L 4X4,Jeep::Grand Cherokee L 4X4,train
+353,Jeep,Grand Wagoneer 4X4 (High Output),Jeep::Grand Wagoneer 4X4 (High Output),test
+354,Jeep,Grand Wagoneer L 4X4 (High Output),Jeep::Grand Wagoneer L 4X4 (High Output),test
+355,Jeep,Wagoneer 4X4,Jeep::Wagoneer 4X4,train
+356,Jeep,Wagoneer L 4X4,Jeep::Wagoneer L 4X4,train
+357,Jeep,Wrangler JL 4X4,Jeep::Wrangler JL 4X4,test
+358,Jeep,Wrangler JL 4X4,Jeep::Wrangler JL 4X4,test
+359,Jeep,Wrangler JL Unlimited 4X4,Jeep::Wrangler JL Unlimited 4X4,train
+360,Jeep,Wrangler JL Unlimited 4X4,Jeep::Wrangler JL Unlimited 4X4,train
+361,Jeep,Wrangler JL Unlimited 4X4,Jeep::Wrangler JL Unlimited 4X4,train
+362,Kia,Carnival,Kia::Carnival,test
+363,Kia,Carnival Hybrid,Kia::Carnival Hybrid,train
+364,Kia,K4,Kia::K4,train
+365,Kia,K4,Kia::K4,train
+366,Kia,K4 (Without DMS),Kia::K4 (Without DMS),train
+367,Kia,Niro,Kia::Niro,train
+368,Kia,Niro FE,Kia::Niro FE,train
+369,Kia,Seltos,Kia::Seltos,train
+370,Kia,Seltos AWD,Kia::Seltos AWD,train
+371,Kia,Seltos AWD,Kia::Seltos AWD,train
+372,Kia,Sorento AWD,Kia::Sorento AWD,train
+373,Kia,Sorento AWD,Kia::Sorento AWD,train
+374,Kia,Sorento Hybrid AWD,Kia::Sorento Hybrid AWD,train
+375,Kia,Soul,Kia::Soul,train
+376,Kia,Sportage,Kia::Sportage,train
+377,Kia,Sportage AWD,Kia::Sportage AWD,train
+378,Kia,Sportage Hybrid AWD,Kia::Sportage Hybrid AWD,train
+379,Kia,Telluride AWD,Kia::Telluride AWD,test
+380,Land Rover,Defender 90 P300,Land Rover::Defender 90 P300,train
+381,Land Rover,Defender 90 P400,Land Rover::Defender 90 P400,train
+382,Land Rover,Defender 90 V8,Land Rover::Defender 90 V8,train
+383,Land Rover,Defender 110 P300,Land Rover::Defender 110 P300,train
+384,Land Rover,Defender 110 P400,Land Rover::Defender 110 P400,train
+385,Land Rover,Defender 110 OCTA,Land Rover::Defender 110 OCTA,train
+386,Land Rover,Defender 110 V8 P500/P525,Land Rover::Defender 110 V8 P500/P525,test
+387,Land Rover,Defender 130 P300,Land Rover::Defender 130 P300,train
+388,Land Rover,Defender 130 P400,Land Rover::Defender 130 P400,train
+389,Land Rover,Defender 130 P400 Outbound,Land Rover::Defender 130 P400 Outbound,train
+390,Land Rover,Defender 130 V8 P500,Land Rover::Defender 130 V8 P500,train
+391,Land Rover,Discovery P300,Land Rover::Discovery P300,test
+392,Land Rover,Discovery P360,Land Rover::Discovery P360,train
+393,Land Rover,Discovery Sport P250,Land Rover::Discovery Sport P250,train
+394,Land Rover,Range Rover P400,Land Rover::Range Rover P400,test
+395,Land Rover,Range Rover P400 LWB,Land Rover::Range Rover P400 LWB,train
+396,Land Rover,Range Rover P530,Land Rover::Range Rover P530,train
+397,Land Rover,Range Rover P530 LWB,Land Rover::Range Rover P530 LWB,train
+398,Land Rover,Range Rover SV P615,Land Rover::Range Rover SV P615,train
+399,Land Rover,Range Rover SV P615 LWB,Land Rover::Range Rover SV P615 LWB,train
+400,Land Rover,Range Rover Sport P360,Land Rover::Range Rover Sport P360,train
+401,Land Rover,Range Rover Sport P400,Land Rover::Range Rover Sport P400,train
+402,Land Rover,Range Rover Sport P530,Land Rover::Range Rover Sport P530,train
+403,Land Rover,Range Rover Sport SV P635,Land Rover::Range Rover Sport SV P635,train
+404,Land Rover,Range Rover Evoque P250,Land Rover::Range Rover Evoque P250,train
+405,Land Rover,Range Rover Velar P250,Land Rover::Range Rover Velar P250,train
+406,Land Rover,Range Rover Velar P340,Land Rover::Range Rover Velar P340,train
+407,Land Rover,Range Rover Velar P400,Land Rover::Range Rover Velar P400,train
+408,Lexus,ES 250 AWD,Lexus::ES 250 AWD,test
+409,Lexus,ES 300h,Lexus::ES 300h,train
+410,Lexus,ES 350,Lexus::ES 350,train
+411,Lexus,ES 350 F SPORT,Lexus::ES 350 F SPORT,train
+412,Lexus,GX 550,Lexus::GX 550,train
+413,Lexus,IS 300 AWD,Lexus::IS 300 AWD,train
+414,Lexus,IS 350 AWD,Lexus::IS 350 AWD,test
+415,Lexus,IS 500,Lexus::IS 500,train
+416,Lexus,LC 500,Lexus::LC 500,train
+417,Lexus,LC 500 Convertible,Lexus::LC 500 Convertible,train
+418,Lexus,LC 500h,Lexus::LC 500h,train
+419,Lexus,LS 500 AWD,Lexus::LS 500 AWD,test
+420,Lexus,LS 500h AWD,Lexus::LS 500h AWD,train
+421,Lexus,LX 600,Lexus::LX 600,train
+422,Lexus,LX 700h,Lexus::LX 700h,train
+423,Lexus,NX 250 AWD,Lexus::NX 250 AWD,train
+424,Lexus,NX 350 AWD,Lexus::NX 350 AWD,train
+425,Lexus,NX 350 AWD F SPORT,Lexus::NX 350 AWD F SPORT,train
+426,Lexus,NX 350h AWD,Lexus::NX 350h AWD,train
+427,Lexus,RC 300 AWD,Lexus::RC 300 AWD,train
+428,Lexus,RC 350 AWD,Lexus::RC 350 AWD,test
+429,Lexus,RC F,Lexus::RC F,train
+430,Lexus,RX 350 AWD,Lexus::RX 350 AWD,train
+431,Lexus,RX 350h AWD,Lexus::RX 350h AWD,train
+432,Lexus,RX 500h AWD,Lexus::RX 500h AWD,train
+433,Lexus,TX 350 AWD,Lexus::TX 350 AWD,train
+434,Lexus,TX 500h AWD,Lexus::TX 500h AWD,train
+435,Lexus,UX 300h AWD,Lexus::UX 300h AWD,test
+436,Lexus,UX 300h AWD,Lexus::UX 300h AWD,test
+437,Lincoln,Aviator AWD,Lincoln::Aviator AWD,train
+438,Lincoln,Corsair AWD,Lincoln::Corsair AWD,train
+439,Lincoln,Nautilus AWD,Lincoln::Nautilus AWD,train
+440,Lincoln,Nautilus Hybrid AWD,Lincoln::Nautilus Hybrid AWD,train
+441,Lincoln,Navigator 4WD,Lincoln::Navigator 4WD,test
+442,Maserati,Grancabrio,Maserati::Grancabrio,train
+443,Maserati,Grancabrio Trofeo,Maserati::Grancabrio Trofeo,test
+444,Maserati,Grecale,Maserati::Grecale,train
+445,Maserati,Grecale Modena,Maserati::Grecale Modena,train
+446,Maserati,Grecale Trofeo,Maserati::Grecale Trofeo,train
+447,Maserati,GT2 Stradale,Maserati::GT2 Stradale,train
+448,Maserati,MC20 Spyder,Maserati::MC20 Spyder,train
+449,Mazda,CX-30 4WD,Mazda::CX-30 4WD,train
+450,Mazda,CX-30 Turbo 4WD,Mazda::CX-30 Turbo 4WD,train
+451,Mazda,CX-5 4WD,Mazda::CX-5 4WD,train
+452,Mazda,CX-5 4WD (Cylinder Deactivation),Mazda::CX-5 4WD (Cylinder Deactivation),train
+453,Mazda,CX-5 Turbo 4WD,Mazda::CX-5 Turbo 4WD,train
+454,Mazda,CX-50 4WD,Mazda::CX-50 4WD,train
+455,Mazda,CX-50 Turbo 4WD,Mazda::CX-50 Turbo 4WD,train
+456,Mazda,CX-50 Hybrid 4WD,Mazda::CX-50 Hybrid 4WD,train
+457,Mazda,CX-70 4WD,Mazda::CX-70 4WD,train
+458,Mazda,CX-70 4WD (High Power),Mazda::CX-70 4WD (High Power),train
+459,Mazda,CX-90 4WD,Mazda::CX-90 4WD,train
+460,Mazda,CX-90 4WD (High Power),Mazda::CX-90 4WD (High Power),train
+461,Mazda,Mazda3 4-Door,Mazda::Mazda3 4-Door,train
+462,Mazda,Mazda3 4-Door 4WD,Mazda::Mazda3 4-Door 4WD,train
+463,Mazda,Mazda3 4-Door Turbo 4WD,Mazda::Mazda3 4-Door Turbo 4WD,train
+464,Mazda,Mazda3 5-Door,Mazda::Mazda3 5-Door,train
+465,Mazda,Mazda3 5-Door (SIL),Mazda::Mazda3 5-Door (SIL),train
+466,Mazda,Mazda3 5-Door 4WD,Mazda::Mazda3 5-Door 4WD,train
+467,Mazda,Mazda3 5-Door Turbo 4WD,Mazda::Mazda3 5-Door Turbo 4WD,test
+468,Mazda,MX-5,Mazda::MX-5,train
+469,Mazda,MX-5 (SIL),Mazda::MX-5 (SIL),train
+470,Mercedes-Benz,AMG C 43 4MATIC Sedan,Mercedes-Benz::AMG C 43 4MATIC Sedan,train
+471,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Mercedes-Benz::AMG CLA 35 4MATIC Coupe,train
+472,Mercedes-Benz,AMG CLA 45 S 4MATIC Coupe,Mercedes-Benz::AMG CLA 45 S 4MATIC Coupe,train
+473,Mercedes-Benz,AMG CLE 53 4MATIC+ Cabriolet,Mercedes-Benz::AMG CLE 53 4MATIC+ Cabriolet,train
+474,Mercedes-Benz,AMG CLE 53 4MATIC+ Coupe,Mercedes-Benz::AMG CLE 53 4MATIC+ Coupe,train
+475,Mercedes-Benz,AMG G 63 SUV,Mercedes-Benz::AMG G 63 SUV,train
+476,Mercedes-Benz,AMG GLA 35 4MATIC Coupe,Mercedes-Benz::AMG GLA 35 4MATIC Coupe,train
+477,Mercedes-Benz,AMG GLB 35 4MATIC Coupe,Mercedes-Benz::AMG GLB 35 4MATIC Coupe,train
+478,Mercedes-Benz,AMG GLC 43 4MATIC+ SUV,Mercedes-Benz::AMG GLC 43 4MATIC+ SUV,train
+479,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,Mercedes-Benz::AMG GLC 43 4MATIC Coupe,train
+480,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,Mercedes-Benz::AMG GLE 53 4MATIC+ SUV,train
+481,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,Mercedes-Benz::AMG GLE 53 4MATIC+ Coupe,train
+482,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,Mercedes-Benz::AMG GLE 63 S 4MATIC+ SUV,train
+483,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,Mercedes-Benz::AMG GLE 63 S 4MATIC+ Coupe,test
+484,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,Mercedes-Benz::AMG GLS 63 4MATIC+ SUV,test
+485,Mercedes-Benz,AMG GT 53 4MATIC+,Mercedes-Benz::AMG GT 53 4MATIC+,train
+486,Mercedes-Benz,AMG GT 55 4MATIC+ Coupe,Mercedes-Benz::AMG GT 55 4MATIC+ Coupe,train
+487,Mercedes-Benz,AMG GT 63 4MATIC+,Mercedes-Benz::AMG GT 63 4MATIC+,train
+488,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Mercedes-Benz::AMG GT 63 4MATIC+ Coupe,train
+489,Mercedes-Benz,AMG GT 63 PRO 4MATIC+ Coupe,Mercedes-Benz::AMG GT 63 PRO 4MATIC+ Coupe,test
+490,Mercedes-Benz,AMG SL 43 4MATIC Roadster,Mercedes-Benz::AMG SL 43 4MATIC Roadster,train
+491,Mercedes-Benz,AMG SL 55 4MATIC+ Roadster,Mercedes-Benz::AMG SL 55 4MATIC+ Roadster,train
+492,Mercedes-Benz,AMG SL 63 4MATIC+ Roadster,Mercedes-Benz::AMG SL 63 4MATIC+ Roadster,train
+493,Mercedes-Benz,C 300 4MATIC Sedan,Mercedes-Benz::C 300 4MATIC Sedan,test
+494,Mercedes-Benz,CLA 250 4MATIC Coupe,Mercedes-Benz::CLA 250 4MATIC Coupe,train
+495,Mercedes-Benz,CLE 300 4MATIC Cabriolet,Mercedes-Benz::CLE 300 4MATIC Cabriolet,train
+496,Mercedes-Benz,CLE 300 4MATIC Coupe,Mercedes-Benz::CLE 300 4MATIC Coupe,test
+497,Mercedes-Benz,CLE 450 4MATIC Cabriolet,Mercedes-Benz::CLE 450 4MATIC Cabriolet,train
+498,Mercedes-Benz,CLE 450 4MATIC Coupe,Mercedes-Benz::CLE 450 4MATIC Coupe,train
+499,Mercedes-Benz,E 350 4MATIC Sedan,Mercedes-Benz::E 350 4MATIC Sedan,test
+500,Mercedes-Benz,E 450 4MATIC Sedan,Mercedes-Benz::E 450 4MATIC Sedan,train
+501,Mercedes-Benz,G 550 SUV,Mercedes-Benz::G 550 SUV,train
+502,Mercedes-Benz,GLA 250 4MATIC SUV,Mercedes-Benz::GLA 250 4MATIC SUV,test
+503,Mercedes-Benz,GLB 250 4MATIC SUV,Mercedes-Benz::GLB 250 4MATIC SUV,train
+504,Mercedes-Benz,GLC 300 4MATIC SUV,Mercedes-Benz::GLC 300 4MATIC SUV,train
+505,Mercedes-Benz,GLC 300 4MATIC Coupe,Mercedes-Benz::GLC 300 4MATIC Coupe,test
+506,Mercedes-Benz,GLE 350 4MATIC SUV,Mercedes-Benz::GLE 350 4MATIC SUV,train
+507,Mercedes-Benz,GLE 450 4MATIC SUV,Mercedes-Benz::GLE 450 4MATIC SUV,train
+508,Mercedes-Benz,GLE 450 4MATIC Coupe,Mercedes-Benz::GLE 450 4MATIC Coupe,test
+509,Mercedes-Benz,GLS 450 4MATIC SUV,Mercedes-Benz::GLS 450 4MATIC SUV,test
+510,Mercedes-Benz,GLS 580 4MATIC SUV,Mercedes-Benz::GLS 580 4MATIC SUV,train
+511,Mercedes-Benz,GLS 600 4MATIC Maybach SUV,Mercedes-Benz::GLS 600 4MATIC Maybach SUV,test
+512,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Mercedes-Benz::Maybach S 580 4MATIC Sedan,train
+513,Mercedes-Benz,Maybach S 680 4MATIC Sedan,Mercedes-Benz::Maybach S 680 4MATIC Sedan,train
+514,Mercedes-Benz,S 500 4MATIC Sedan,Mercedes-Benz::S 500 4MATIC Sedan,train
+515,Mercedes-Benz,S 580 4MATIC Sedan,Mercedes-Benz::S 580 4MATIC Sedan,train
+516,MINI,Cooper 3 Door,MINI::Cooper 3 Door,train
+517,MINI,Cooper 5 Door,MINI::Cooper 5 Door,train
+518,MINI,Cooper Convertible,MINI::Cooper Convertible,test
+519,MINI,Cooper S 3 Door,MINI::Cooper S 3 Door,train
+520,MINI,Cooper S 5 Door,MINI::Cooper S 5 Door,train
+521,MINI,Cooper S Convertible,MINI::Cooper S Convertible,train
+522,MINI,Cooper S Countryman ALL4,MINI::Cooper S Countryman ALL4,test
+523,MINI,John Cooper Works 3 Door,MINI::John Cooper Works 3 Door,test
+524,MINI,John Cooper Works Convertible,MINI::John Cooper Works Convertible,test
+525,MINI,John Cooper Works Countryman ALL4,MINI::John Cooper Works Countryman ALL4,test
+526,Mitsubishi,Eclipse Cross 4WD,Mitsubishi::Eclipse Cross 4WD,train
+527,Mitsubishi,Outlander 4WD,Mitsubishi::Outlander 4WD,train
+528,Mitsubishi,RVR,Mitsubishi::RVR,train
+529,Mitsubishi,RVR 4WD,Mitsubishi::RVR 4WD,train
+530,Mitsubishi,RVR 4WD,Mitsubishi::RVR 4WD,train
+531,Nissan,Altima AWD,Nissan::Altima AWD,train
+532,Nissan,Altima AWD SR/Platinum,Nissan::Altima AWD SR/Platinum,train
+533,Nissan,Armada 4WD,Nissan::Armada 4WD,train
+534,Nissan,Armada 4WD PRO-4X,Nissan::Armada 4WD PRO-4X,test
+535,Nissan,Frontier,Nissan::Frontier,train
+536,Nissan,Frontier 4WD,Nissan::Frontier 4WD,train
+537,Nissan,Frontier 4WD PRO-4X,Nissan::Frontier 4WD PRO-4X,train
+538,Nissan,Kicks,Nissan::Kicks,train
+539,Nissan,Kicks AWD,Nissan::Kicks AWD,train
+540,Nissan,Kicks Play,Nissan::Kicks Play,train
+541,Nissan,Murano AWD,Nissan::Murano AWD,train
+542,Nissan,Pathfinder 4WD,Nissan::Pathfinder 4WD,train
+543,Nissan,Pathfinder 4WD Rock Creek,Nissan::Pathfinder 4WD Rock Creek,train
+544,Nissan,Rogue,Nissan::Rogue,train
+545,Nissan,Rogue AWD,Nissan::Rogue AWD,test
+546,Nissan,Sentra,Nissan::Sentra,train
+547,Nissan,Sentra SR,Nissan::Sentra SR,train
+548,Nissan,Sentra,Nissan::Sentra,train
+549,Nissan,Sentra SR,Nissan::Sentra SR,train
+550,Nissan,Versa,Nissan::Versa,train
+551,Nissan,Versa,Nissan::Versa,train
+552,Nissan,Z,Nissan::Z,train
+553,Nissan,Z,Nissan::Z,train
+554,Nissan,Z NISMO,Nissan::Z NISMO,test
+555,Porsche,718 Boxster,Porsche::718 Boxster,train
+556,Porsche,718 Boxster,Porsche::718 Boxster,train
+557,Porsche,718 Boxster S,Porsche::718 Boxster S,train
+558,Porsche,718 Boxster S,Porsche::718 Boxster S,train
+559,Porsche,718 Boxster GTS,Porsche::718 Boxster GTS,train
+560,Porsche,718 Boxster GTS,Porsche::718 Boxster GTS,train
+561,Porsche,718 Cayman,Porsche::718 Cayman,test
+562,Porsche,718 Cayman,Porsche::718 Cayman,test
+563,Porsche,718 Cayman S,Porsche::718 Cayman S,train
+564,Porsche,718 Cayman S,Porsche::718 Cayman S,train
+565,Porsche,718 Cayman GTS,Porsche::718 Cayman GTS,train
+566,Porsche,718 Cayman GTS,Porsche::718 Cayman GTS,train
+567,Porsche,718 GT4 RS,Porsche::718 GT4 RS,train
+568,Porsche,718 Spyder RS,Porsche::718 Spyder RS,train
+569,Porsche,911 Carrera,Porsche::911 Carrera,train
+570,Porsche,911 Carrera Cabriolet,Porsche::911 Carrera Cabriolet,train
+571,Porsche,911 Carrera S,Porsche::911 Carrera S,train
+572,Porsche,911 Carrera S Cabriolet,Porsche::911 Carrera S Cabriolet,train
+573,Porsche,911 Carrera T,Porsche::911 Carrera T,train
+574,Porsche,911 Carrera T Cabriolet,Porsche::911 Carrera T Cabriolet,train
+575,Porsche,911 Carrera GTS,Porsche::911 Carrera GTS,train
+576,Porsche,911 Carrera 4 GTS,Porsche::911 Carrera 4 GTS,train
+577,Porsche,911 Carrera GTS Cabriolet,Porsche::911 Carrera GTS Cabriolet,train
+578,Porsche,911 Carrera 4 GTS Cabriolet,Porsche::911 Carrera 4 GTS Cabriolet,train
+579,Porsche,911 GT3,Porsche::911 GT3,train
+580,Porsche,911 GT3,Porsche::911 GT3,train
+581,Porsche,911 GT3 RS,Porsche::911 GT3 RS,train
+582,Porsche,911 GT3 Touring,Porsche::911 GT3 Touring,test
+583,Porsche,911 GT3 Touring,Porsche::911 GT3 Touring,test
+584,Porsche,911 Targa 4 GTS,Porsche::911 Targa 4 GTS,train
+585,Porsche,911 Turbo,Porsche::911 Turbo,train
+586,Porsche,911 Turbo Cabriolet,Porsche::911 Turbo Cabriolet,train
+587,Porsche,911 Turbo S,Porsche::911 Turbo S,test
+588,Porsche,911 Turbo S Cabriolet,Porsche::911 Turbo S Cabriolet,train
+589,Porsche,Cayenne,Porsche::Cayenne,train
+590,Porsche,Cayenne Coupe,Porsche::Cayenne Coupe,train
+591,Porsche,Cayenne GTS,Porsche::Cayenne GTS,train
+592,Porsche,Cayenne GTS Coupe,Porsche::Cayenne GTS Coupe,train
+593,Porsche,Cayenne S,Porsche::Cayenne S,train
+594,Porsche,Cayenne S Coupe,Porsche::Cayenne S Coupe,train
+595,Porsche,Cayenne Turbo GT Coupe,Porsche::Cayenne Turbo GT Coupe,train
+596,Porsche,Macan,Porsche::Macan,train
+597,Porsche,Macan T,Porsche::Macan T,test
+598,Porsche,Macan S,Porsche::Macan S,train
+599,Porsche,Macan GTS,Porsche::Macan GTS,train
+600,Porsche,Panamera,Porsche::Panamera,train
+601,Porsche,Panamera 4,Porsche::Panamera 4,train
+602,Porsche,Panamera GTS,Porsche::Panamera GTS,train
+603,Ram,1500,Ram::1500,train
+604,Ram,1500 eTorque,Ram::1500 eTorque,test
+605,Ram,1500 4X4,Ram::1500 4X4,train
+606,Ram,1500 4X4 eTorque,Ram::1500 4X4 eTorque,train
+607,Ram,1500 4X4 HO,Ram::1500 4X4 HO,train
+608,Ram,1500 4X4 RHO,Ram::1500 4X4 RHO,train
+609,Rolls-Royce,Cullinan,Rolls-Royce::Cullinan,train
+610,Rolls-Royce,Black Badge Cullinan,Rolls-Royce::Black Badge Cullinan,train
+611,Rolls-Royce,Ghost,Rolls-Royce::Ghost,train
+612,Rolls-Royce,Black Badge Ghost,Rolls-Royce::Black Badge Ghost,train
+613,Rolls-Royce,Ghost Extended,Rolls-Royce::Ghost Extended,train
+614,Rolls-Royce,Phantom,Rolls-Royce::Phantom,train
+615,Rolls-Royce,Phantom Extended,Rolls-Royce::Phantom Extended,train
+616,Subaru,Ascent AWD,Subaru::Ascent AWD,train
+617,Subaru,BRZ,Subaru::BRZ,train
+618,Subaru,BRZ,Subaru::BRZ,train
+619,Subaru,Crosstrek AWD,Subaru::Crosstrek AWD,train
+620,Subaru,Crosstrek AWD,Subaru::Crosstrek AWD,train
+621,Subaru,Crosstrek Wilderness AWD,Subaru::Crosstrek Wilderness AWD,train
+622,Subaru,Forester AWD,Subaru::Forester AWD,train
+623,Subaru,Forester Wilderness AWD,Subaru::Forester Wilderness AWD,train
+624,Subaru,Forester e-BOXER Hybrid AWD,Subaru::Forester e-BOXER Hybrid AWD,train
+625,Subaru,Impreza AWD,Subaru::Impreza AWD,train
+626,Subaru,Impreza AWD,Subaru::Impreza AWD,train
+627,Subaru,Outback AWD,Subaru::Outback AWD,train
+628,Subaru,Outback AWD,Subaru::Outback AWD,train
+629,Subaru,Outback Wilderness AWD,Subaru::Outback Wilderness AWD,train
+630,Subaru,WRX AWD,Subaru::WRX AWD,train
+631,Subaru,WRX AWD,Subaru::WRX AWD,train
+632,Toyota,4Runner 4WD (Part-Time 4WD),Toyota::4Runner 4WD (Part-Time 4WD),train
+633,Toyota,4Runner 4WD Limited,Toyota::4Runner 4WD Limited,test
+634,Toyota,4Runner Hybrid 4WD (Part-Time 4WD),Toyota::4Runner Hybrid 4WD (Part-Time 4WD),test
+635,Toyota,4Runner Hybrid 4WD Platinum,Toyota::4Runner Hybrid 4WD Platinum,test
+636,Toyota,Camry,Toyota::Camry,test
+637,Toyota,Camry AWD SE/XLE,Toyota::Camry AWD SE/XLE,test
+638,Toyota,Camry AWD XSE,Toyota::Camry AWD XSE,train
+639,Toyota,Corolla (1-mode),Toyota::Corolla (1-mode),train
+640,Toyota,Corolla (3-mode),Toyota::Corolla (3-mode),train
+641,Toyota,Corolla Hatchback,Toyota::Corolla Hatchback,test
+642,Toyota,Corolla Hybrid,Toyota::Corolla Hybrid,train
+643,Toyota,Corolla Hybrid AWD (2-mode),Toyota::Corolla Hybrid AWD (2-mode),test
+644,Toyota,Corolla Hybrid AWD (3-mode),Toyota::Corolla Hybrid AWD (3-mode),train
+645,Toyota,Corolla Cross,Toyota::Corolla Cross,train
+646,Toyota,Corolla Cross AWD,Toyota::Corolla Cross AWD,train
+647,Toyota,Corolla Cross Hybrid AWD,Toyota::Corolla Cross Hybrid AWD,train
+648,Toyota,Crown AWD,Toyota::Crown AWD,train
+649,Toyota,Crown AWD,Toyota::Crown AWD,train
+650,Toyota,Crown Signia AWD,Toyota::Crown Signia AWD,train
+651,Toyota,GR Corolla,Toyota::GR Corolla,train
+652,Toyota,GR Corolla,Toyota::GR Corolla,train
+653,Toyota,GR Supra 3.0,Toyota::GR Supra 3.0,train
+654,Toyota,GR Supra 3.0,Toyota::GR Supra 3.0,train
+655,Toyota,GR86,Toyota::GR86,train
+656,Toyota,GR86,Toyota::GR86,train
+657,Toyota,Grand Highlander AWD Limited,Toyota::Grand Highlander AWD Limited,test
+658,Toyota,Grand Highlander AWD XLE,Toyota::Grand Highlander AWD XLE,test
+659,Toyota,Grand Highlander Hybrid AWD,Toyota::Grand Highlander Hybrid AWD,train
+660,Toyota,Grand Highlander Hybrid MAX AWD,Toyota::Grand Highlander Hybrid MAX AWD,train
+661,Toyota,Highlander AWD,Toyota::Highlander AWD,test
+662,Toyota,Highlander Hybrid AWD,Toyota::Highlander Hybrid AWD,train
+663,Toyota,Highlander Hybrid AWD Limited/Platinum,Toyota::Highlander Hybrid AWD Limited/Platinum,test
+664,Toyota,Land Cruiser,Toyota::Land Cruiser,train
+665,Toyota,Prius AWD,Toyota::Prius AWD,train
+666,Toyota,RAV4 AWD,Toyota::RAV4 AWD,train
+667,Toyota,RAV4 AWD (Stop/Start),Toyota::RAV4 AWD (Stop/Start),test
+668,Toyota,RAV4 AWD LE,Toyota::RAV4 AWD LE,train
+669,Toyota,RAV4 Hybrid AWD,Toyota::RAV4 Hybrid AWD,train
+670,Toyota,RAV4 Hybrid AWD Woodland Edition,Toyota::RAV4 Hybrid AWD Woodland Edition,train
+671,Toyota,Sequoia 4WD,Toyota::Sequoia 4WD,train
+672,Toyota,Sienna,Toyota::Sienna,test
+673,Toyota,Sienna AWD,Toyota::Sienna AWD,train
+674,Toyota,Tacoma 4WD (2-mode),Toyota::Tacoma 4WD (2-mode),train
+675,Toyota,Tacoma 4WD (3-mode),Toyota::Tacoma 4WD (3-mode),train
+676,Toyota,Tacoma 4WD,Toyota::Tacoma 4WD,train
+677,Toyota,Tacoma Hybrid 4WD,Toyota::Tacoma Hybrid 4WD,test
+678,Toyota,Tacoma Hybrid 4WD Limited,Toyota::Tacoma Hybrid 4WD Limited,train
+679,Toyota,Tundra,Toyota::Tundra,train
+680,Toyota,Tundra 4WD (1-mode),Toyota::Tundra 4WD (1-mode),train
+681,Toyota,Tundra 4WD (3-mode)/TRD,Toyota::Tundra 4WD (3-mode)/TRD,train
+682,Toyota,Tundra Hybrid 4WD,Toyota::Tundra Hybrid 4WD,train
+683,Toyota,Tundra Hybrid 4WD TRD PRO,Toyota::Tundra Hybrid 4WD TRD PRO,train
+684,Volkswagen,Atlas 4MOTION Comfortline,Volkswagen::Atlas 4MOTION Comfortline,train
+685,Volkswagen,Atlas 4MOTION Highline/Execline,Volkswagen::Atlas 4MOTION Highline/Execline,train
+686,Volkswagen,Atlas 4MOTION Peak Edition,Volkswagen::Atlas 4MOTION Peak Edition,test
+687,Volkswagen,Atlas Cross Sport 4MOTION,Volkswagen::Atlas Cross Sport 4MOTION,train
+688,Volkswagen,Golf GTI,Volkswagen::Golf GTI,train
+689,Volkswagen,Golf R,Volkswagen::Golf R,test
+690,Volkswagen,Jetta,Volkswagen::Jetta,test
+691,Volkswagen,Jetta GLI,Volkswagen::Jetta GLI,test
+692,Volkswagen,Jetta GLI,Volkswagen::Jetta GLI,test
+693,Volkswagen,Taos,Volkswagen::Taos,train
+694,Volkswagen,Taos 4MOTION,Volkswagen::Taos 4MOTION,test
+695,Volkswagen,Tiguan 4MOTION,Volkswagen::Tiguan 4MOTION,train
+696,Volvo,S60 B5 AWD,Volvo::S60 B5 AWD,train
+697,Volvo,S90 B6 AWD,Volvo::S90 B6 AWD,train
+698,Volvo,V60 CC B5 AWD,Volvo::V60 CC B5 AWD,test
+699,Volvo,V90 CC B6 AWD,Volvo::V90 CC B6 AWD,test
+700,Volvo,XC40 B5 AWD,Volvo::XC40 B5 AWD,train
+701,Volvo,XC60 B5 AWD,Volvo::XC60 B5 AWD,test
+702,Volvo,XC90 B6 AWD,Volvo::XC90 B6 AWD,train

@@ -1,0 +1,27 @@
+{
+  "selected_model": "Fuel-interaction linear regression",
+  "fit_rows": 564,
+  "fuels_seen": [
+    "D",
+    "E",
+    "X",
+    "Z"
+  ],
+  "training_ranges": {
+    "Engine size (L)": [
+      1.2000000476837158,
+      6.699999809265137
+    ],
+    "Cylinders": [
+      3.0,
+      12.0
+    ],
+    "Combined (L/100 km)": [
+      4.400000095367432,
+      19.700000762939453
+    ]
+  },
+  "dataset_sha256": "46088cd4853987ef7a684f0b0af86e93e83dfaa378607a4750958c996248639c",
+  "target_unit": "g/km",
+  "evaluated_scope": "2025 Canadian catalog ratings"
+}

@@ -1,0 +1,80 @@
+{
+  "source_url": "https://open.canada.ca/data/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64/resource/d589f2bc-9a85-4f65-be2f-20f17debfcb1/download/my2025-fuel-consumption-ratings.csv",
+  "source_resource_id": "d589f2bc-9a85-4f65-be2f-20f17debfcb1",
+  "snapshot_retrieved": "2026-11-14",
+  "resource_label": "2025 Fuel Consumption Ratings (2026-07-24)",
+  "sha256": "46088cd4853987ef7a684f0b0af86e93e83dfaa378607a4750958c996248639c",
+  "source_encoding": "cp1252",
+  "raw_rows": 701,
+  "raw_columns": 15,
+  "exact_duplicates_removed": 0,
+  "invalid_rows_removed": 0,
+  "clean_rows": 701,
+  "missing_values_raw": {
+    "Model year": 0,
+    "Make": 0,
+    "Model": 0,
+    "Vehicle class": 0,
+    "Engine size (L)": 0,
+    "Cylinders": 0,
+    "Transmission": 0,
+    "Fuel type": 0,
+    "City (L/100 km)": 0,
+    "Highway (L/100 km)": 0,
+    "Combined (L/100 km)": 0,
+    "Combined (mpg)": 0,
+    "CO2 emissions (g/km)": 0,
+    "CO2 rating": 0,
+    "Smog rating": 0
+  },
+  "fuel_counts": {
+    "Z": 385,
+    "X": 300,
+    "D": 13,
+    "E": 3
+  },
+  "makes": 39,
+  "make_model_groups": 600,
+  "memory": {
+    "full_source_dataframe_bytes": 259266,
+    "original_selected_columns_bytes": 194914,
+    "selected_before_optimization_bytes": 194969,
+    "selected_after_optimization_bytes": 72774,
+    "selected_reduction_pct": 62.674066133590465
+  },
+  "dtypes_after": {
+    "source_row": "int64",
+    "Model year": "uint16",
+    "Make": "category",
+    "Model": "category",
+    "Vehicle class": "category",
+    "Engine size (L)": "float32",
+    "Cylinders": "uint8",
+    "Combined (L/100 km)": "float32",
+    "Fuel type": "category",
+    "CO2 emissions (g/km)": "uint16"
+  },
+  "split": {
+    "method": "GroupShuffleSplit",
+    "seed": 42,
+    "test_fraction_of_groups": 0.2,
+    "train_rows": 564,
+    "test_rows": 137,
+    "train_groups": 480,
+    "test_groups": 120,
+    "overlap_groups": 0,
+    "group_definition": "Make + exact stripped Model string",
+    "train_fuel_counts": {
+      "Z": 309,
+      "X": 242,
+      "D": 10,
+      "E": 3
+    },
+    "test_fuel_counts": {
+      "Z": 76,
+      "X": 58,
+      "D": 3,
+      "E": 0
+    }
+  }
+}
