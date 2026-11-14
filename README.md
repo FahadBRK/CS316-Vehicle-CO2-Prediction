@@ -39,12 +39,7 @@ python -m src.analysis
 python -m unittest discover -s tests -v
 ```
 
-The official CSV is included, so the analysis does not require a network
-connection after dependencies are installed. Running the analysis refreshes
-`results/` and the train-only model files in `models/`. It does not automatically
-rewrite the report or slides. The delivered documents correspond to the included
-snapshot, seed and software versions.
-
+The dataset is included, so the analysis does not require an internet connection after the dependencies are installed. Running the analysis updates the results/ folder and saves the trained models in models/. The supplied results were generated using the fixed random seed and package versions listed in requirements.txt.
 An optional notebook is in `notebooks/Vehicle_CO2_Analysis.ipynb`. Install JupyterLab
 separately (`python -m pip install jupyterlab`) and run its cells in order.
 The notebook calls the same analysis code and includes outputs from the executed run.
@@ -110,9 +105,6 @@ or causal effects is made.
 | `models/` | Selected and Phase 1 models fitted to training data only |
 | `notebooks/` | Executed analysis notebook with reproducible code |
 | `tests/` | Source, leakage, metric and model-artifact consistency checks |
-| `report/` | IEEE report PDF and editable LaTeX source |
-| `presentation/` | Exactly 10 slides with speaker notes |
-| `SUBMISSION_CHECKLIST.md` | Rubric mapping and remaining external submission steps |
 
 ## Memory efficiency
 
@@ -122,36 +114,7 @@ On the same 701 rows and selected columns, memory decreases from 194,969 bytes t
 72,774 bytes (62.7%). This is DataFrame storage, not a claim about peak process RAM.
 Feature construction uses NumPy broadcasting, group aggregates avoid duplicating
 rows for bootstrap sampling, folds are reused across models, and figures are
-closed immediately. Exact code excerpts and paths appear in the report appendix.
-
-## Publishing and submission
-
-No GitHub repository has been created by this package. Create a repository in your
-account, then publish the project folder, including data, results, report and slides:
-
-```bash
-git init
-git add .
-git commit -m "Complete CS316 Phase 2 vehicle CO2 project"
-```
-
-Follow the new GitHub repository's instructions to add its actual remote URL and
-push. Verify that its README and files are visible, then submit that real URL on
-the course platform and share it with the instructor as required. No instructor
-message or course-platform submission has been sent.
-
-## AI assistance and similarity check
-
-OpenAI ChatGPT assisted with source lookup, coding, running the analysis,
-interpretation, report and slide drafting, and formatting. The numerical evidence
-comes from executing the included Python code on the official data. Students
-must independently review the materials, follow their course's AI-use policy,
-and be able to explain the implementation and findings.
-
-**Plagiarism/similarity ratio: not measured.** Obtain the official score using the
-institution-approved service before submission. A low similarity or AI-detection
-score is not claimed or guaranteed. Do not replace this disclosure with an
-invented percentage.
+closed immediately.
 
 ## References
 
